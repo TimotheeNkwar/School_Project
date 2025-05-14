@@ -7,7 +7,7 @@ This repository contains a comparison of three classification models applied to 
 1. **Logistic Regression**
    A simple, interpretable linear model that estimates the probability of a binary outcome. It works well when the data is linearly separable and provides a solid baseline for comparison.
 
-   * **Accuracy**: 85%
+   * **Accuracy**: 83%
 
 2. **Random Forest Classifier**
    An ensemble learning method that uses multiple decision trees to make predictions. It is robust to overfitting and can capture complex relationships in the data.
@@ -19,7 +19,7 @@ This repository contains a comparison of three classification models applied to 
 3. **Naive Bayes**
    A probabilistic classifier that assumes feature independence, making it simple and fast. It performs well on datasets with relatively independent features.
 
-   * **Accuracy**: 78%
+   * **Accuracy**: 81%
    * **Strengths**: Fast, simple, effective for data with relatively independent features.
    * **Weaknesses**: Assumes feature independence, which may limit performance if violated.
 
