@@ -12,7 +12,7 @@ This repository contains a comparison of three classification models applied to 
 2. **Random Forest Classifier**
    An ensemble learning method that uses multiple decision trees to make predictions. It is robust to overfitting and can capture complex relationships in the data.
 
-   * **Accuracy**: 91%
+   * **Accuracy**: 93%
    * **Strengths**: Higher accuracy, better handling of complex feature interactions.
    * **Weaknesses**: Slower to train, risk of overfitting if not tuned.
 
